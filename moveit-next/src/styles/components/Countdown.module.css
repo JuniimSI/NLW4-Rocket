@@ -77,4 +77,14 @@
     background: var(--white);
     color: var(--text);
     cursor: not-allowed;
+    border-style: solid ;
+    border-color: var(--green);
+    border-bottom-width: 0.3rem;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+}
+
+.countdownButton:disabled img{
+    margin-left: 0.5rem;
 }
