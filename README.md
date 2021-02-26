@@ -2,5 +2,5 @@
 
 🚀🚀 Instruções dentro de cada projeto.🚀🚀
 
-[Trilha ReactJs](https://github.com/JuniimSI/NLW4-Rocket/tree/main/moveit-next/)
+[Trilha ReactJs](https://github.com/JuniimSI/NLW4-Rocket/tree/main/moveit-next/) <br />
 [Trilha NodeJs](https://github.com/JuniimSI/NLW4-Rocket/tree/main/api/)
